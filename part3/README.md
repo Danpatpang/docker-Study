@@ -28,6 +28,8 @@ Docker 설치는 도입할 호스트 OS에 따라 절차가 다르다.
 
 `apt-transport -https \` 
 
+`ca-certificates \` 
+
 `curl \` 
 
 `software-properties-common`
